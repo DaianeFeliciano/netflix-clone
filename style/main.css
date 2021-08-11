@@ -1,6 +1,7 @@
-body {
+:root {
 
-   
+    --vermelho: #E50914;
+    --preta: #141414;
 
 }
 
@@ -8,4 +9,16 @@ body {
     margin:0;
     padding: 0;
     box-sizing: border-box;
+}
+
+body {
+
+   
+
+}
+
+header .container {
+    
+
+
 }
