@@ -58,7 +58,7 @@ header nav a:hover {
 .filme-principal {
 
     font-size: 16px;
-    background: linear-gradient(rgba(0,0,0, .50), rgba(0,0,0, .50) 100%),url('../img/coringa.jpg');
+    background: linear-gradient(rgba(0,0,0, .50), rgba(0,0,0, .50) 100%),url('../img/capa-house.jpg');
 
     height: 400px;
     background-size: cover;
@@ -79,5 +79,19 @@ header nav a:hover {
 
 .titulo {
 
+    margin-top: 15%;
     font-size: 40px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.botao {
+
+    background-color: rgba(0,0, 0, 0.50);
+    border: none;
+    color: white;
+
+    padding: 15px 30px;
+    margin-right: 15px;
+    font-size: 12px;
+
 }
