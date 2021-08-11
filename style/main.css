@@ -112,3 +112,18 @@ header nav a:hover {
     margin-right: 8px;
 
 }
+
+.container {
+
+    margin-left: 20px;
+
+
+}
+/* WRAPPER = ENVELOPAR 
+*/
+
+.filme-principal .container {
+
+    width: 70%;
+
+}
