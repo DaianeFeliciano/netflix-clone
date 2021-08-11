@@ -15,7 +15,7 @@
 body {
 
    background: var(--preta);
-   font-family: 'Times New Roman', Times, serif;
+   font-family: Arial, Helvetica, sans-serif;
    color: white;
 
 }
@@ -133,5 +133,11 @@ header nav a:hover {
     height: 100%;
     width: 100%;
     display: block;
+
+}
+
+.carrosel-filmes {
+
+    margin-top: 5px;
 
 }
