@@ -11,10 +11,12 @@
     box-sizing: border-box;
 }
 
+/*elementos base*/
 body {
 
    background: var(--preta);
    font-family: 'Times New Roman', Times, serif;
+   color: white;
 
 }
 
@@ -50,3 +52,5 @@ header nav a:hover {
     color: #fff;
 
 }
+
+/*filme principal*/
